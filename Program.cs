@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Drawing;
 using System.Windows.Forms;
-
+//dlya git
 namespace Forms
 {
     public class Program
