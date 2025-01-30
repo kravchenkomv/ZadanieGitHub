@@ -18,7 +18,7 @@ namespace Forms
             public MyForm(string title)
             {
                 Text = title;
-                Height = 300;
+                Height = 280;
                 Width = 350;
                 StartPosition = FormStartPosition.CenterScreen;
 
